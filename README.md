@@ -5,7 +5,7 @@
 [![PHP](https://img.shields.io/badge/PHP-8.2+-purple.svg)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0%2B%20%2F%20MariaDB-orange.svg)](https://mariadb.org)
 
-**GT Management Software** is a full-stack, enterprise-grade business management and ERP system designed for Indian trade, distribution, and service enterprises. Built from the ground up according to the comprehensive specification in [gt_management_Software_PRD.md](GT_Management_Software_PRD.md).
+**GT Management Software** is a full-stack, enterprise-grade business management and ERP system designed for Indian trade, distribution, and service enterprises. Built from the ground up according to the comprehensive specification in [GT_Management_Software_PRD.md](GT_Management_Software_PRD.md).
 
 ---
 
