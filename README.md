@@ -136,7 +136,7 @@ GT Management Software/
 ---
 
 ## 📄 Documentation & Links
-- [Product Requirements Document (PRD)](gt_management_Software_PRD.md)
+- [Product Requirements Document (PRD)](GT_Management_Software_PRD.md)
 - [AI Provider Configuration Guide](docs/ai-configuration.md)
 - [User Operational Manual](docs/user-manual.md)
 
